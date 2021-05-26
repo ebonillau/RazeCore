@@ -22,8 +22,8 @@
 
 /* Begin PBXBuildFile section */
 		6300D2B8265DB456006D3F9E /* RazeCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6300D2B7265DB456006D3F9E /* RazeCore.swift */; };
-		6300D2BE265DB6DF006D3F9E /* RazeNetworkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6300D2BD265DB6DF006D3F9E /* RazeNetworkingTests.swift */; };
 		6300D2C8265DB7DF006D3F9E /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6300D2C7265DB7DF006D3F9E /* Networking.swift */; };
+		6300D2CD265DF602006D3F9E /* RazeNetworkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6300D2BD265DB6DF006D3F9E /* RazeNetworkingTests.swift */; };
 		OBJ_23 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* Color.swift */; };
 		OBJ_30 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
 		OBJ_41 /* RazeColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* RazeColorTests.swift */; };
@@ -223,7 +223,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				6300D2BE265DB6DF006D3F9E /* RazeNetworkingTests.swift in Sources */,
 				6300D2B8265DB456006D3F9E /* RazeCore.swift in Sources */,
 				OBJ_23 /* Color.swift in Sources */,
 				6300D2C8265DB7DF006D3F9E /* Networking.swift in Sources */,
@@ -244,6 +243,7 @@
 			files = (
 				OBJ_41 /* RazeColorTests.swift in Sources */,
 				OBJ_42 /* XCTestManifests.swift in Sources */,
+				6300D2CD265DF602006D3F9E /* RazeNetworkingTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
